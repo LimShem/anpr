@@ -13,3 +13,9 @@ The technique was simplified into 4 main things:
 3. Crop the coordination from the clostest shape and order it from the best candidate ( the higher ratio the better ) and the shape recognized as rectangle.
 4. Do the OCR.
 
+## How to do
+1. Download the files
+2. Load the ipynb files into google collab or local jupyter notebook
+3. Extract the Photo Management
+4. Adjust the file path, if loaded not in google collab, can just skip the first block
+5. Run
