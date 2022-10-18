@@ -19,3 +19,6 @@ The technique was simplified into 4 main things:
 3. Extract the Photo Management
 4. Adjust the file path, if loaded not in google collab, can just skip the first block
 5. Run
+
+## Disclaimer
+Out of 12 photos, 80% photo plate number location is extracted accurately. While, 70% managed to extract text from the image.
